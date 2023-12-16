@@ -1,0 +1,8 @@
+[Unit]
+Description=Small fan PWM control application
+
+[Service]
+ExecStart=/opt/fan-ctrl-rs/fan-ctrl-rs
+
+[Install]
+WantedBy=multi-user.target
