@@ -3,6 +3,8 @@
 An extremely simple application to control a PWM fan.
 Even under full load, keeps the RPi below 60 ºC!
 
+![image](https://github.com/arminveres/fan-ctrl-rs/assets/45210978/d745514a-bd87-4ff8-a0b9-fae1fbb8e1ae)
+
 ## Requirements
 
 First of all PWM needs to be enabled on the RPi:
